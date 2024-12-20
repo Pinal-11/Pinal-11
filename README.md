@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pinal-11
+- 👋 Hi, I’m @Pinal
 - 👀 I’m interested in aws
 - 🌱 I’m currently learning DevOps
 - 👔 resume - https://tinyurl.com/DPinal
